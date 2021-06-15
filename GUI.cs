@@ -607,8 +607,6 @@ namespace Intel8086
 
         private void Mov_Click(object sender, EventArgs e)
         {
-            string temp1;
-            string temp2;
             if (ComboBoxTo.SelectedIndex == 0)
             {
                 //AX

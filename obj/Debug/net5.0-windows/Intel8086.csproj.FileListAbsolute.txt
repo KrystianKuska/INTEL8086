@@ -5,7 +5,6 @@ C:\Users\kryst\Desktop\Intel8086\Intel8086\bin\Debug\net5.0-windows\Intel8086.ru
 C:\Users\kryst\Desktop\Intel8086\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
 C:\Users\kryst\Desktop\Intel8086\Intel8086\bin\Debug\net5.0-windows\ref\Intel8086.dll
 C:\Users\kryst\Desktop\Intel8086\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
-C:\Users\kryst\Desktop\Intel8086\Intel8086\obj\Debug\net5.0-windows\Intel8086.csprojAssemblyReference.cache
 C:\Users\kryst\Desktop\Intel8086\Intel8086\obj\Debug\net5.0-windows\Intel8086.Intel8086.resources
 C:\Users\kryst\Desktop\Intel8086\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
 C:\Users\kryst\Desktop\Intel8086\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
